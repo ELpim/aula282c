@@ -1,0 +1,8 @@
+:body {
+    --cor-de-fundo: #ff009d; /*a cor de fundo */
+  }
+
+  h1 {
+    background-color: #ff0095; /* cor do h1 */
+    color: #ff0000; /* cor do h1 parte 2 */
+  }
